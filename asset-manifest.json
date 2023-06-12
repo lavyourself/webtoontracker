@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Cwebtoontracker%3E/static/css/main.7764ccaf.css",
-    "main.js": "/%3Cwebtoontracker%3E/static/js/main.01581485.js",
-    "static/js/787.9666df2d.chunk.js": "/%3Cwebtoontracker%3E/static/js/787.9666df2d.chunk.js",
-    "index.html": "/%3Cwebtoontracker%3E/index.html",
-    "main.7764ccaf.css.map": "/%3Cwebtoontracker%3E/static/css/main.7764ccaf.css.map",
-    "main.01581485.js.map": "/%3Cwebtoontracker%3E/static/js/main.01581485.js.map",
-    "787.9666df2d.chunk.js.map": "/%3Cwebtoontracker%3E/static/js/787.9666df2d.chunk.js.map"
+    "main.css": "/webtoontracker/static/css/main.7764ccaf.css",
+    "main.js": "/webtoontracker/static/js/main.1a722ed6.js",
+    "static/js/787.9666df2d.chunk.js": "/webtoontracker/static/js/787.9666df2d.chunk.js",
+    "index.html": "/webtoontracker/index.html",
+    "main.7764ccaf.css.map": "/webtoontracker/static/css/main.7764ccaf.css.map",
+    "main.1a722ed6.js.map": "/webtoontracker/static/js/main.1a722ed6.js.map",
+    "787.9666df2d.chunk.js.map": "/webtoontracker/static/js/787.9666df2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7764ccaf.css",
-    "static/js/main.01581485.js"
+    "static/js/main.1a722ed6.js"
   ]
 }
