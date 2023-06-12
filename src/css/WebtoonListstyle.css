@@ -1,0 +1,93 @@
+.headings {
+  color: white;
+  cursor: default;
+  border-top: white solid;
+}
+
+.full-list {
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 3em;
+  background-color: #b0a4bf;
+  padding: 1em;
+  padding-bottom: 3em;
+  border-radius: 2em;
+}
+
+.left-padding {
+  padding-left: 0.5em;
+  border-left-style: solid;
+  border-color: white;
+  padding-right: 0.5em;
+  border-bottom: white solid;
+  margin-bottom: 1em;
+}
+
+.right-padding {
+  padding-right: 0.5em;
+  border-bottom: white solid;
+  margin-bottom: 1em;
+}
+
+.body {
+  border-left-style: solid;
+  cursor: default;
+}
+
+.main-heading {
+  color: white;
+  text-align: center;
+  font-family: Garamond, "Times New Roman", Times, serif;
+  font-size: 3rem;
+  cursor: default;
+}
+
+.search-bar {
+  border-radius: 1em;
+  margin-bottom: 2em;
+  text-align: left;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  padding-right: 10em;
+  padding-left: 0.5em;
+}
+
+.search--bar {
+  text-align: center;
+  color: #f2f2f2;
+}
+
+.status {
+  background: #d6c9f2;
+  color: rgb(69, 68, 68);
+  cursor: pointer;
+}
+
+.delete {
+  background: #d6c9f2;
+  color: rgb(69, 68, 68);
+  cursor: pointer;
+  border-color: rgb(149, 148, 148);
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+}
+
+.links {
+  color: #b35aa4;
+}
+
+a:link,
+a:visited {
+  color: #b35aa4;
+}
+
+.add-webtoon {
+  padding-top: 1em;
+}
+
+#synopsis {
+  padding-bottom: 1em;
+  padding-top: 1em;
+  text-align: center;
+}

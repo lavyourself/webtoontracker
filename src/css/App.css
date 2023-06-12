@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+  border: rgb(69, 68, 68) solid 1pt;
+  margin-right: 3em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  background-color: #d6c9f2;
+  border-radius: 1.5em;
+  text-align: center;
+}
+
+#add-webtoon {
+  margin-top: 1em;
+}
